@@ -10,9 +10,9 @@ I'm a full-stack software developer and a Computer Science student passionate ab
 
 I enjoy working across backend systems, frontend development, and AI-powered applications to create meaningful and practical software products.
 
-- 🔭 **Current Focus:** Developing full-stack administrative platforms (like the Elixir-based Gatekeeper system) and AI-powered applications such as ATS resume optimization tools.
-- 🌱 **Learning & Exploration:** Advanced backend development with Elixir, scalable system design, AI integration in web applications, and database architecture.
-- ⚡ **Core Interests:** Full-Stack Web Development, Artificial Intelligence, Database Systems, Software Architecture, and UI/UX Design.
+- 🔭 **Current Focus:** Developing full-stack administrative platforms (like the Elixir-based Gatekeeper system) and AI-powered applications such as ATS resume optimization tools.  
+- 🌱 **Learning & Exploration:** Advanced backend development with Elixir, scalable system design, AI integration in web applications, and database architecture.  
+- ⚡ **Core Interests:** Full-Stack Web Development, Artificial Intelligence, Database Systems, Software Architecture, and UI/UX Design.  
 
 ---
 
@@ -34,13 +34,11 @@ I enjoy working across backend systems, frontend development, and AI-powered app
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### Tooling, Infrastructure & Ecosystem
+### Tooling & Infrastructure
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
 
 ---
 
@@ -48,20 +46,20 @@ I enjoy working across backend systems, frontend development, and AI-powered app
 
 ### **Software Developer Attache | Pesaflow Limited** *(Feb 2026 – March 2026)*
 
-- Contributed to the **Gatekeeper** project, an Elixir-based system for managing company servers through role-based employee access control.
-- Implemented database migrations, context modules, CRUD routes, and controller functions.
-- Engineered an interactive user seeder script for automated admin onboarding and credential generation.
-- Defined server behavior modules to ensure consistent user and role management across systems.
-- Integrated backend functionality into the admin interface through server management CRUD features.
+- Contributed to the **Gatekeeper** project, an Elixir-based system for managing company servers through role-based employee access control.  
+- Implemented database migrations, context modules, CRUD routes, and controller functions.  
+- Engineered an interactive user seeder script for automated admin onboarding and credential generation.  
+- Defined server behavior modules to ensure consistent user and role management across systems.  
+- Integrated backend functionality into the admin interface through server management CRUD features.  
 
 ---
 
 ### **AI Resume Assistant**
-- Collaborated on a web-based AI-powered resume builder for creating ATS-optimized resumes.
-- Designed a responsive UI using **React.js** and **Bootstrap**.
-- Built backend services using **Node.js/Express**.
-- Integrated **Firebase** for authentication and data storage.
-- Worked on AI-based resume keyword optimization and content enhancement to improve job application success rates.
+- Collaborated on a web-based AI-powered resume builder for creating ATS-optimized resumes.  
+- Designed a responsive UI using **React.js** and **Bootstrap**.  
+- Built backend services using **Node.js/Express**.  
+- Integrated **Firebase** for authentication and data storage.  
+- Worked on AI-based resume keyword optimization and content enhancement to improve job application success rates.  
 
 ---
 
@@ -81,8 +79,7 @@ I enjoy working across backend systems, frontend development, and AI-powered app
 
 ## Connect With Me
 
-- 💼 **Professional Network:** https://www.linkedin.com/in/glen-sikuku-0a9b922b3/
-- 📧 **Email:** (add your email here)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/glen-sikuku-0a9b922b3/
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
