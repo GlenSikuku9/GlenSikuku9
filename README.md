@@ -1,16 +1,15 @@
 # Glen-Sikuku
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
-</p
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Building+solutions.+Solving+problems.+Creating+value&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+</p>
 
-I'm a full-stack software developer and Computer Science student focused on building scalable, efficient, and user-centered software systems. I enjoy turning complex problems into practical digital solutions that combine clean architecture, strong backend logic, and intuitive user experiences.
+I'm a full-stack software developer and Informatics and Computer Science student focused on building scalable, efficient, and impactful software systems. I enjoy turning complex problems into practical solutions by combining strong technical foundations with analytical thinking and thoughtful execution.
 
-My work spans backend development, frontend engineering, and AI-powered applications, with a strong interest in building systems that are both technically solid and impactful in real-world use.
+My work spans backend development, frontend engineering, and AI-powered applications, with a growing interest in understanding how technology can solve business challenges and create value at scale. I enjoy building systems that are technically sound, practical, and meaningful in real-world use.
 
-- 🔭 **Current Focus:** Building full-stack administrative and automation systems and developing AI-powered tools.  
-- 🌱 **Learning & Exploration:** Advanced backend engineering with Elixir, scalable system design, API architecture, AI integration in production web apps, and database optimization.  
-- ⚡ **Core Interests:** Full-Stack Web Development, Artificial Intelligence, Database Engineering, and Product-Focused Software Design.  
+- 🔭 **Current Focus:** Building full-stack systems, exploring AI-powered solutions, and developing analytical and business problem-solving capabilities.
+- 🌱 **Learning & Exploration:** Advanced backend engineering with Elixir, scalable system design, API architecture, AI integration in production web applications, and applying business analysis to solve real-world challenges.
+- ⚡ **Core Interests:** Full-Stack Development, Artificial Intelligence, Business Problem Solving, Data-Driven Decision Making, and Scalable Technology Solutions.
 
 ---
 
@@ -32,7 +31,7 @@ My work spans backend development, frontend engineering, and AI-powered applicat
 
 ### **Software Developer Attache | Pesaflow Limited** *(Feb 2026 – March 2026)*
 
-- Contributed to the **Gatekeeper** project, an Elixir-based system for managing company servers through role-based employee access control.  
+- Contributed to the development of an Elixir-based employee management system designed to support role-based access control and secure management of organisational resources.  
 - Implemented database migrations, context modules, CRUD routes, and controller functions.  
 - Engineered an interactive user seeder script for automated admin onboarding and credential generation.  
 - Defined server behavior modules to ensure consistent user and role management across systems.  
@@ -52,10 +51,9 @@ My work spans backend development, frontend engineering, and AI-powered applicat
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlenSikuku9&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" />
+ <img src="https://github-readme-stats.vercel.app/api?username=GlenSikuku9&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlenSikuku9&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlenSikuku9&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlenSikuku9&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" />
