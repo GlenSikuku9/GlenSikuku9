@@ -1,4 +1,11 @@
 # Glen-Sikuku
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Developer;AI+%26+Systems+Builder;Elixir+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Building+solutions.+Solving+problems.+Creating+value&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
