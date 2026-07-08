@@ -51,9 +51,10 @@ My work spans backend development, frontend engineering, and AI-powered applicat
 ## GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=GlenSikuku9&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlenSikuku9&theme=github_dark" alt="GitHub Stats Summary" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlenSikuku9&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlenSikuku9&theme=github_dark" alt="Most Commit Language" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlenSikuku9&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" />
